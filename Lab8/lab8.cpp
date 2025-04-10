@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+//test
 // Shape классын тодорхойлолт
 class Shape {
 protected:
